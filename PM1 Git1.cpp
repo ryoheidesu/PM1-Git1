@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello VisualStudio\n";
 
-    std::cout << "Hello New Branch changed\n";
+    std::cout << "Clone changed\n";
 
 }
 
